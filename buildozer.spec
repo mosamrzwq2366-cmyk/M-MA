@@ -19,7 +19,7 @@ source.include_exts = py,png,jpg,kv,atlas,json
 version = 0.1
 
 # (list) Application requirements
-requirements = python3,kivy,requests,urllib3,certifi,idna,charset-normalizer,openssl
+requirements = python3,kivy,requests
 
 # (list) Permissions
 android.permissions = INTERNET, ACCESS_NETWORK_STATE
